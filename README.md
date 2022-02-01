@@ -1,7 +1,7 @@
 # University of Tehran Workshop, Winter 2022
 This repository contains the contents of the "Python for Economics" workshop at Economic Development and Research Institute, University of Tehran. (Winter 2022)
 
-<img src = "https://github.com/saeed-saffari/" width="550" >
+<img src = "https://github.com/saeed-saffari/Py-for-econ-workshop-win2022/blob/main/photo_2022-01-27%2016.41.12.jpeg?raw=true" width="550" >
 
 ## The requirements and recommendations
 
