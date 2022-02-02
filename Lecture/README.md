@@ -4,7 +4,7 @@
 
 - [Introduction]()
 - Python Setup
-- [Object and Data Structure Basics]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
+- [Object and Data Structure Basics](https://github.com/saeed-saffari/Py-for-econ-workshop-win2022/blob/main/Lecture/1.%20Data%20Structure%20Basics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Py-for-econ-workshop-win2022/blob/main/Lecture/1.%20Data%20Structure%20Basics.ipynb)
 
 - [Python Statements and Functions]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
 
