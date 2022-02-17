@@ -23,6 +23,7 @@
 - [Exercise 02 (Loops and Functions)](https://drive.google.com/file/d/19b9Kok6rXEq6tMggbH8T31M0TRv5sERj/view?usp=sharing)
 - [Exercise 03 (Numpy and Matplotlib)](https://drive.google.com/file/d/19iBqxu3tUUIcahEOihPPxc51NTQm4na7/view?usp=sharing)
 - [Exercise 04 (Pandas 01 & 02)](https://drive.google.com/file/d/10NSOodEOxluIRXD4RtWfbrAMybPbsM16/view?usp=sharing)
-- [Exercise 05 (Pandas 03)]()
+- [Exercise 05 (Pandas 03)](https://drive.google.com/file/d/1cuM6LpRN3__lQ3MtZzxJuW7aEjran9wE/view?usp=sharing)
+- [Project 01](https://drive.google.com/file/d/1rJAPmNzSlMVoFexbEGPDJ3dedfTkcRxE/view?usp=sharing)
 
 
