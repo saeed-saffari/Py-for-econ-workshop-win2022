@@ -13,10 +13,10 @@
   - [Matplotlib](https://github.com/saeed-saffari/Py-for-econ-workshop-win2022/blob/main/Lecture/4.%20Matplotlib.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Py-for-econ-workshop-win2022/blob/main/Lecture/4.%20Matplotlib.ipynb)
   - [Pandas (part 01)](https://github.com/saeed-saffari/Py-for-econ-workshop-win2022/blob/main/Lecture/5.%20Pandas%2001.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Py-for-econ-workshop-win2022/blob/main/Lecture/5.%20Pandas%2001.ipynb)
   - [Pandas (part 02)](https://github.com/saeed-saffari/Py-for-econ-workshop-win2022/blob/main/Lecture/6.%20Pandas%2002.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Py-for-econ-workshop-win2022/blob/main/Lecture/6.%20Pandas%2002.ipynb)
-  - [Pandas (part 03)]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
+  - [Pandas (part 03)](https://github.com/saeed-saffari/Py-for-econ-workshop-win2022/blob/main/Lecture/7.%20Pandas%2003.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Py-for-econ-workshop-win2022/blob/main/Lecture/7.%20Pandas%2003.ipynb)
   
   
-- [Projects*]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
+- [Projects*](https://github.com/saeed-saffari/Py-for-econ-workshop-win2022/blob/main/Lecture/Project%2001%20-%20Covid19%20confirmed%20cases.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Py-for-econ-workshop-win2022/blob/main/Lecture/Project%2001%20-%20Covid19%20confirmed%20cases.ipynb)
 
 ## Exercises
 - [Exercise 01 (Python Basic)](https://drive.google.com/drive/folders/1laC6km39KitfD4LXf_shPtPri7KE61lW?usp=sharing)
